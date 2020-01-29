@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Professional photo of Kyle Krisher](.../images/KMK_3.jpg)
