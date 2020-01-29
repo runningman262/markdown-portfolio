@@ -1,1 +1,1 @@
-![Professional photo of Kyle Krisher](.../images/KMK_3.jpg)
+![Professional photo of Kyle Krisher](../images/KMK_3.jpg)
