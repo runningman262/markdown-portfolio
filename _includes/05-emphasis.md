@@ -1,1 +1,6 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- I am a *fast* learner
+- I have 12 years of industrial programming experience including
+  - **Supporting** Fanuc robots through troubleshooting and modifying programs
+  - **Constructed** ABB paint robot programs in ***RAPID***
+  - **Implemented** PLC error-proofing mistake proofing
+- **Developed** extensive Fanuc robot and automated paint system trouble shooting guides
